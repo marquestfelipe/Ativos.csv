@@ -1,220 +1,220 @@
-Empresa,Matrícula,Nome,Cargo,Sexo,Nível,Salário,Diretoria,Categoria,Grade,Mediana,PIR,Admissão,Idade,TdC,Demissão,Motivo
-BEMOBI,100011,Desligado 1,Coordenador Desenvolvimento,F,Esp/Coord,12147,TECNOLOGIA,Dev,13,19328,63%,15/01/2009,41,"13,3",25/04/2022,Voluntário
-BEMOBI,100102,Desligado 2,Analista de Suporte N1 PL,M,Pleno,6385,TECNOLOGIA,Regular,9,5643,113%,17/10/2014,39,"7,7",10/07/2022,Voluntário
-BEMOBI,100298,Desligado 3,Analista Desenvolvimento SR,F,Senior,10836,TECNOLOGIA,Dev,11,10450,104%,12/11/2019,28,"2,1",07/01/2022,Voluntário
-BEMOBI,100335,Desligado 4,Analista Desenvolvimento JR,F,Junior,5000,TECNOLOGIA,DEV,9,5250,95%,12/01/2021,24,1,28/01/2022,Voluntário
-BEMOBI,100227,Desligado 5,Analista Marketing JR,M,Junior,3313,PRODUTOS,Regular,8,4138,80%,04/02/2019,26,"3,2",14/04/2022,Involuntário
-BEMOBI,100281,Desligado 6,Analista Marketing SR,M,Senior,6950,COMERCIAL,High Tech,11,9942,70%,20/05/2019,32,"2,8",28/03/2022,Voluntário
-BEMOBI,100286,Desligado 7,Especialista Desenvolvimento,M,Esp/Coord,13075,TECNOLOGIA,Dev,12,14187,92%,01/08/2019,38,"2,7",14/04/2022,Voluntário
-BEMOBI,100306,Desligado 8,Gerente de BI,M,Gerente,17215,TECNOLOGIA,Dev,14,26287,65%,14/04/2020,38,"2,3",12/08/2022,Voluntário
-BEMOBI,100308,Desligado 9,Analista Desenvolvimento JR,M,Junior,5980,TECNOLOGIA,DEV,9,5250,114%,19/05/2020,25,"2,3",02/09/2022,Voluntário
-BEMOBI,100323,Desligado 10,Analista Marketing JR,M,Junior,2919,COMERCIAL,Regular,8,4138,71%,22/09/2020,30,"1,3",11/02/2022,Voluntário
-BEMOBI,100348,Desligado 11,Analista RH JR,M,Junior,3105,PEOPLE & CULTURE,Regular,8,4138,75%,03/05/2021,28,"0,8",28/02/2022,Voluntário
-BEMOBI,100352,Desligado 12,Especialista Financeiro,M,Esp/Coord,9748,FINANCEIRO,Regular,11,12000,81%,18/05/2021,55,"0,7",10/02/2022,Involuntário
-BEMOBI,100360,Desligado 13,Analista Financeiro SR,M,Senior,7122,FINANCEIRO,Regular,10,6696,106%,06/07/2021,41,"0,9",15/06/2022,Voluntário
-BEMOBI,100363,Desligado 14,Analista BI JR,F,Junior,4501,TECNOLOGIA,DEV,9,5250,86%,02/08/2021,24,"0,8",02/05/2022,Voluntário
-BEMOBI,100371,Desligado 15,Analista Marketing JR,F,Junior,2919,COMERCIAL,Regular,8,4138,71%,21/09/2021,40,"0,9",09/09/2022,Voluntário
-BEMOBI,100374,Desligado 16,Analista Marketing JR,F,Junior,3500,PRODUTOS,Regular,8,4138,85%,05/10/2021,26,"0,3",04/03/2022,Voluntário
-BEMOBI,100385,Desligado 17,Analista Desenvolvimento PL,M,Pleno,8000,TECNOLOGIA,Dev,10,8375,96%,07/12/2021,41,"0,4",03/06/2022,Voluntário
-BEMOBI,100386,Desligado 18,Analista Desenvolvimento PL,M,Pleno,9600,TECNOLOGIA,Dev,10,8375,115%,16/12/2021,25,"0,6",07/08/2022,Voluntário
-BEMOBI,100388,Desligado 19,Analista de RI e M&A PI,M,Pleno,5000,FINANCEIRO,Regular,9,5643,89%,10/01/2022,27,"0,6",31/08/2022,Voluntário
-BEMOBI,100393,Desligado 20,Assistente Administrativo,M,Assistente,2000,FINANCEIRO,Regular,5,2200,91%,05/04/2022,30,"0,2",09/06/2022,Involuntário
-BEMOBI,100397,Desligado 21,Analista Desenvolvimento SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,03/05/2022,28,"0,1",03/06/2022,Voluntário
-BEMOBI,100344,Desligado 22,Designer PL,F,Pleno,5509,PRODUTOS,Alta Exp,10,6696,82%,13/04/2021,25,"1,4",23/09/2022,Voluntário
-BEMOBI,100324,Desligado 23,Analista de Marketing PL,M,Pleno,5128,COMERCIAL,Regular,9,5643,91%,22/09/2020,33,2,03/10/2022,Voluntário
-BEMOBI,400081,Desligado 24,ANALISTA DE DADOS PL,M,Pleno,8500,TECNOLOGIA,High Tech,10,7685,111%,10/05/2022,36,"0,3",03/10/2022,Voluntário
-BEMOBI,100213,Desligado 25,Analista de Marketing SR,M,Senior,9938,PRODUTOS,Alta Exp,11,9999,99%,03/09/2018,33,"4,1",27/10/2022,Involuntário
-M4P,100720,Desligado 26,Especialista Desenvolvimento II,M,Esp/Coord,18172,TECNOLOGIA,Dev,13,19328,94%,04/05/2020,27,"1,9",14/04/2022,Voluntário
-M4P,100071,Desligado 27,Analista Financeiro SR,M,Senior,7152,FINANCEIRO,Regular,10,6696,107%,17/05/2010,59,"12,1",06/07/2022,Falecimento
-M4P,100090,Desligado 28,Gerente de Controladoria SR,M,Gerente,28325,FINANCEIRO,Regular,13,18890,150%,20/09/2010,37,"11,3",14/02/2022,Voluntário
-M4P,100204,Desligado 29,Analista Processos PL,M,Pleno,6896,TECNOLOGIA,Alta Exp,10,6696,103%,18/03/2013,37,"8,8",10/02/2022,Involuntário
-M4P,100509,Desligado 30,Analista de Produtos SR,M,Senior,11316,PRODUTOS,Alta Exp,11,9999,113%,06/11/2017,31,"4,3",09/03/2022,Voluntário
-M4P,100772,Desligado 31,Analista Desenvolvimento SR,M,Senior,11587,TECNOLOGIA,Dev,11,10450,111%,23/11/2020,32,"1,3",08/04/2022,Voluntário
-M4P,100039,Desligado 32,Especialista Desenvolvimento II,M,Esp/Coord,19000,TECNOLOGIA,Dev,13,19328,98%,18/05/2009,35,"12,8",14/04/2022,Voluntário
-M4P,100633,Desligado 33,Analista Desenvolvimento SR,M,Senior,11201,TECNOLOGIA,Dev,11,10450,107%,08/07/2019,32,"2,8",27/04/2022,Voluntário
-M4P,100396,Desligado 34,Especialista Desenvolvimento II,M,Esp/Coord,20471,TECNOLOGIA,Dev,13,19328,106%,01/03/2016,46,"6,2",22/05/2022,Voluntário
-M4P,100317,Desligado 35,Analista Desenvolvimento JR,M,Junior,6000,TECNOLOGIA,DEV,9,5250,114%,13/10/2014,32,"7,3",04/03/2022,Voluntário
-M4P,100740,Desligado 36,Analista Financeiro PL,M,Pleno,5300,FINANCEIRO,Regular,9,5643,94%,06/07/2020,36,"1,6",04/03/2022,Voluntário
-M4P,100513,Desligado 37,Gerente de Negocios II,M,Gerente,22084,COMERCIAL,Regular,13,18890,117%,04/12/2017,44,"4,4",06/05/2022,Involuntário
-M4P,100520,Desligado 38,Analista Processos JR,F,Junior,3498,PRODUTOS,Regular,8,4138,85%,05/02/2018,31,"4,3",27/05/2022,Voluntário
-M4P,100542,Desligado 39,Assistente de Produtos,F,Assistente,3323,COMERCIAL,Regular,5,2200,151%,04/06/2018,32,"4,2",31/08/2022,Voluntário
-M4P,100573,Desligado 40,Analista Operações JR,M,Junior,3836,TECNOLOGIA,Alta Exp,9,5250,73%,17/09/2018,36,"3,7",31/05/2022,Voluntário
-M4P,100665,Desligado 41,Analista RH PL,F,Pleno,4866,PEOPLE & CULTURE,Regular,9,5643,86%,06/01/2020,35,"2,2",18/03/2022,Voluntário
-M4P,100612,Desligado 42,Especialista Desenvolvimento I,M,Esp/Coord,16000,TECNOLOGIA,Dev,12,14187,113%,24/04/2019,31,"2,8",25/02/2022,Voluntário
-M4P,100620,Desligado 43,Analista de Negocios SR,M,Senior,11319,COMERCIAL,Regular,10,6696,169%,10/06/2019,31,"2,8",14/04/2022,Voluntário
-M4P,100615,Desligado 44,Analista RH PL,M,Pleno,5535,PEOPLE & CULTURE,Regular,9,5643,98%,22/05/2019,38,"2,9",24/04/2022,Voluntário
-M4P,100626,Desligado 45,Analista Desenvolvimento PL,M,Pleno,7901,TECNOLOGIA,Dev,10,8375,94%,01/07/2019,25,"2,6",18/02/2022,Voluntário
-M4P,100847,Desligado 46,Analista Desenvolvimento SR,M,Senior,13226,TECNOLOGIA,Dev,11,10450,127%,19/07/2021,34,"0,8",29/04/2022,Voluntário
-M4P,100639,Desligado 47,Especialista de Processos I,M,Esp/Coord,14506,TECNOLOGIA,Alta Exp,12,13698,106%,26/08/2019,46,"2,4",15/02/2022,Involuntário
-M4P,100650,Desligado 48,Analista Desenvolvimento SR,M,Senior,12000,TECNOLOGIA,Dev,11,10450,115%,14/10/2019,30,"2,3",04/02/2022,Voluntário
-M4P,100651,Desligado 49,Especialista de Processos II,M,Esp/Coord,14909,TECNOLOGIA,Alta Exp,12,13698,109%,22/10/2019,38,"2,3",11/02/2022,Involuntário
-M4P,100652,Desligado 50,Especialista Desenvolvimento I,M,Esp/Coord,15613,TECNOLOGIA,Dev,12,14187,110%,22/10/2019,43,"2,3",11/02/2022,Voluntário
-M4P,100661,Desligado 51,Analista de Produtos SR,M,Senior,12321,PRODUTOS,Alta Exp,11,9999,123%,09/12/2019,38,"2,7",19/08/2022,Voluntário
-M4P,100773,Desligado 52,Analista de Produtos PL,F,Pleno,8369,PRODUTOS,High Tech,10,7685,109%,23/11/2020,30,"1,3",11/03/2022,Voluntário
-M4P,100668,Desligado 53,Gerente de Negocios I,F,Gerente,16013,COMERCIAL,Regular,13,18890,85%,06/01/2020,45,"2,1",10/02/2022,Involuntário
-M4P,100627,Desligado 54,Especialista RH I,F,Esp/Coord,12703,PEOPLE & CULTURE,Regular,11,12000,106%,01/07/2019,35,"2,8",11/04/2022,Voluntário
-M4P,100699,Desligado 55,Especialista Desenvolvimento I,M,Esp/Coord,15010,TECNOLOGIA,Dev,12,14187,106%,06/04/2020,24,"2,1",30/05/2022,Voluntário
-M4P,100707,Desligado 56,Especialista Desenvolvimento I,M,Esp/Coord,15348,TECNOLOGIA,Dev,12,14187,108%,13/04/2020,44,2,06/05/2022,Voluntário
-M4P,100709,Desligado 57,Analista Desenvolvimento PL,M,Pleno,7000,TECNOLOGIA,Dev,10,8375,84%,13/04/2020,34,"2,1",31/05/2022,Voluntário
-M4P,100746,Desligado 58,Analista Desenvolvimento SR,M,Senior,13449,TECNOLOGIA,Dev,11,10450,129%,03/08/2020,32,"2,1",23/09/2022,Voluntário
-M4P,100560,Desligado 59,Analista de Produtos SR,M,Senior,12242,PRODUTOS,Alta Exp,11,9999,122%,23/07/2018,38,"3,4",14/01/2022,Voluntário
-M4P,100610,Desligado 60,Especialista Designer I,F,Esp/Coord,12386,PRODUTOS,Regular,11,12000,103%,24/04/2019,38,"2,8",31/01/2022,Voluntário
-M4P,100876,Desligado 61,Analista Desenvolvimento SR,M,Senior,11000,TECNOLOGIA,Dev,11,10450,105%,04/10/2021,33,"0,4",09/03/2022,Voluntário
-M4P,100675,Desligado 62,Analista Desenvolvimento SR,M,Senior,12000,TECNOLOGIA,Dev,11,10450,115%,21/01/2020,34,"1,9",07/01/2022,Voluntário
-M4P,100697,Desligado 63,Analista de Dados PL,F,Pleno,7361,TECNOLOGIA,High Tech,10,7685,96%,06/04/2020,27,"1,8",07/01/2022,Voluntário
-M4P,100360,Desligado 64,Especialista Desenvolvimento II,M,Esp/Coord,17408,TECNOLOGIA,Dev,13,19328,90%,01/06/2015,36,"6,8",29/04/2022,Voluntário
-M4P,100725,Desligado 65,Especialista Desenvolvimento I,M,Esp/Coord,16729,TECNOLOGIA,Dev,12,14187,118%,04/05/2020,32,"1,8",16/02/2022,Voluntário
-M4P,100584,Desligado 66,Especialista Designer I,M,Esp/Coord,12326,PRODUTOS,Regular,11,12000,103%,22/10/2018,39,"3,3",09/03/2022,Voluntário
-M4P,100732,Desligado 67,Especialista Desenvolvimento I,M,Esp/Coord,15500,TECNOLOGIA,Dev,12,14187,109%,18/05/2020,26,"1,9",13/05/2022,Voluntário
-M4P,100829,Desligado 68,Analista Desenvolvimento PL,M,Pleno,8722,TECNOLOGIA,Dev,10,8375,104%,14/06/2021,22,"0,8",22/03/2022,Voluntário
-M4P,100698,Desligado 69,Analista Desenvolvimento SR,M,Senior,13000,TECNOLOGIA,Dev,11,10450,124%,06/04/2020,33,"1,8",28/01/2022,Voluntário
-M4P,100760,Desligado 70,Analista Desenvolvimento PL,F,Pleno,10490,TECNOLOGIA,Dev,10,8375,125%,21/09/2020,27,"1,8",03/07/2022,Voluntário
-M4P,100343,Desligado 71,Especialista Desenvolvimento I,M,Esp/Coord,15462,TECNOLOGIA,Dev,12,14187,109%,11/03/2015,36,7,06/04/2022,Involuntário
-M4P,100731,Desligado 72,Especialista Desenvolvimento I,M,Esp/Coord,15734,TECNOLOGIA,Dev,12,14187,111%,18/05/2020,28,"1,8",23/03/2022,Voluntário
-M4P,100775,Desligado 73,Analista Desenvolvimento PL,M,Pleno,10577,TECNOLOGIA,Dev,10,8375,126%,01/12/2020,26,"1,4",06/05/2022,Voluntário
-M4P,100776,Desligado 74,Analista de Produtos PL,F,Pleno,9812,COMERCIAL,High Tech,10,7685,128%,01/12/2020,25,"1,6",31/07/2022,Voluntário
-M4P,100779,Desligado 75,Analista Desenvolvimento PL,M,Pleno,8000,TECNOLOGIA,Dev,10,8375,96%,01/12/2020,25,"1,4",10/05/2022,Voluntário
-M4P,100784,Desligado 76,Gerente de Produtos II,M,Gerente,30998,PRODUTOS,Regular,14,25277,123%,21/12/2020,37,"1,5",15/07/2022,Voluntário
-M4P,100785,Desligado 77,Especialista Desenvolvimento I,M,Esp/Coord,16043,TECNOLOGIA,Dev,12,14187,113%,04/01/2021,35,"1,1",11/02/2022,Voluntário
-M4P,100791,Desligado 78,Analista Desenvolvimento JR,M,Junior,5000,TECNOLOGIA,DEV,9,5250,95%,10/02/2021,29,1,18/02/2022,Voluntário
-M4P,100804,Desligado 79,Especialista de Produto I,M,Esp/Coord,14086,PRODUTOS,Regular,11,12000,117%,05/04/2021,27,"1,3",10/07/2022,Voluntário
-M4P,100853,Desligado 80,Analista Desenvolvimento SR,M,Senior,13226,TECNOLOGIA,Dev,11,10450,127%,26/07/2021,41,1,19/08/2022,Voluntário
-M4P,100756,Desligado 81,Analista Desenvolvimento PL,M,Pleno,7334,TECNOLOGIA,Dev,10,8375,88%,04/09/2020,24,"1,3",07/01/2022,Voluntário
-M4P,100808,Desligado 82,Analista Segurança PL,M,Pleno,7304,TECNOLOGIA,Alta Exp,10,6696,109%,19/04/2021,25,"0,8",21/01/2022,Voluntário
-M4P,100815,Desligado 83,Analista Processos SR,M,Senior,10347,TECNOLOGIA,Alta Exp,11,9999,103%,03/05/2021,48,"0,8",10/02/2022,Involuntário
-M4P,100822,Desligado 84,Analista RH JR,M,Junior,3415,PEOPLE & CULTURE,Regular,8,4138,83%,10/05/2021,33,"0,7",09/02/2022,Involuntário
-M4P,100825,Desligado 85,Analista Desenvolvimento PL,M,Pleno,9002,TECNOLOGIA,Dev,10,8375,107%,17/05/2021,29,"0,8",11/04/2022,Voluntário
-M4P,100879,Desligado 86,Designer PL,F,Pleno,7500,PRODUTOS,Alta Exp,10,6696,112%,13/10/2021,33,"0,3",09/03/2022,Voluntário
-M4P,100833,Desligado 87,Analista Processos SR,F,Senior,10261,TECNOLOGIA,Alta Exp,11,9999,103%,21/06/2021,40,"0,6",10/02/2022,Involuntário
-M4P,100835,Desligado 88,Gerente de Produtos,F,Gerente,17444,PRODUTOS,Regular,13,18890,92%,28/06/2021,46,"0,5",14/01/2022,Voluntário
-M4P,100844,Desligado 89,Analista Processos PL,F,Pleno,9157,TECNOLOGIA,Alta Exp,10,6696,137%,12/07/2021,30,"0,5",10/02/2022,Involuntário
-M4P,100846,Desligado 90,Assistente de Produtos,M,Assistente,3052,PRODUTOS,Regular,5,2200,139%,12/07/2021,27,"0,7",18/03/2022,Voluntário
-M4P,100693,Desligado 91,Especialista de Produto I,F,Esp/Coord,16028,COMERCIAL,Regular,11,12000,134%,16/03/2020,42,2,08/04/2022,Voluntário
-M4P,100849,Desligado 92,Analista Desenvolvimento PL,M,Pleno,9004,TECNOLOGIA,Dev,10,8375,108%,19/07/2021,26,"0,8",29/05/2022,Voluntário
-M4P,100873,Desligado 93,Analista Processos JR,M,Junior,5300,TECNOLOGIA,DEV,9,5250,101%,20/09/2021,23,"0,3",10/02/2022,Involuntário
-M4P,100276,Desligado 94,Gerente Desenvolvimento II,M,Gerente,30000,TECNOLOGIA,Dev,14,26287,114%,24/04/2014,36,"7,8",11/03/2022,Voluntário
-M4P,100883,Desligado 95,Analista de Produtos JR,F,Junior,3800,TECNOLOGIA,Alta Exp,9,5250,72%,03/11/2021,30,"0,7",30/07/2022,Voluntário
-M4P,100886,Desligado 96,Analista Desenvolvimento JR,M,Junior,3800,TECNOLOGIA,DEV,9,5250,72%,16/11/2021,25,"0,2",02/02/2022,Voluntário
-M4P,100887,Desligado 97,Analista Processos SR,M,Senior,10000,TECNOLOGIA,Alta Exp,11,9999,100%,16/11/2021,47,"0,2",10/02/2022,Involuntário
-M4P,100889,Desligado 98,Analista Financeiro PL,F,Pleno,4500,FINANCEIRO,Regular,9,5643,80%,16/11/2021,56,"0,2",10/02/2022,Involuntário
-M4P,100925,Desligado 99,Analista de Produtos PL,F,Pleno,8000,COMERCIAL,High Tech,10,7685,104%,03/05/2022,30,"0,3",30/09/2022,Voluntário
-M4P,100955,Desligado 100,Analista Desenvolvimento SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,12/07/2022,42,"0,1",08/09/2022,Voluntário
-M4P,100958,Desligado 101,Designer JR,M,Junior,3400,COMERCIAL,Alta Exp,9,5250,65%,12/07/2022,22,"0,2",12/09/2022,Voluntário
-M4P,100506,Desligado 102,Analista Desenvolvimento PL,M,Pleno,10720,TECNOLOGIA,Dev,10,8375,128%,02/10/2017,33,"4,4",15/03/2022,Voluntário
-M4P,100372,Desligado 103,Gerente de Produtos,M,Gerente,19375,COMERCIAL,Regular,13,18890,103%,03/08/2015,32,"6,7",08/04/2022,Voluntário
-M4P,100691,Desligado 104,Especialista Desenvolvimento I,M,Esp/Coord,16563,TECNOLOGIA,Dev,12,14187,117%,09/03/2020,28,"1,9",04/03/2022,Voluntário
-M4P,100857,Desligado 105,Gerente de Produto,F,Gerente,20174,COMERCIAL,Regular,13,18890,107%,02/08/2021,41,"1,1",20/09/2022,Involuntário
-M4P,100941,Desligado 106,Analista de Desenvolvimento PL,M,Pleno,8850,TECNOLOGIA,Dev,10,8375,106%,14/06/2022,30,"0,3",23/09/2022,Voluntário
-M4P,100440,Desligado 107,Analista de Desenvolvimento SR,M,Senior,12159,TECNOLOGIA,Dev,11,10450,116%,18/10/2016,45,"5,9",19/09/2022,Involuntário
-M4P,100961,Desligado 108,Analista de Desenvolvimento SR,M,Senior,13000,TECNOLOGIA,Dev,11,10450,124%,19/07/2022,50,"0,2",11/10/2022,Involuntário
-M4P,100193,Desligado 109,Coordenador de Facilities,M,Esp/Coord,9099,FINANCEIRO,Regular,11,12000,76%,14/01/2013,37,"9,7",13/10/2022,Involuntário
-M4P,100609,Desligado 110,Coordenador Financeiro,F,Esp/Coord,10774,FINANCEIRO,Regular,11,12000,90%,24/04/2019,46,"3,4",13/10/2022,Involuntário
-M4P,100918,Desligado 111,Analista de Marketing SR,M,Senior,7032,COMERCIAL,Regular,10,6696,105%,12/04/2022,33,"0,5",19/10/2022,Voluntário
-MULTI,200025,Desligado 112,Especialista Desenvolvimento I,M,Esp/Coord,16890,TECNOLOGIA,Dev,12,14187,119%,02/04/2012,50,"10,2",12/06/2022,Voluntário
-MULTI,200046,Desligado 113,Analista Desenvolvimento JR,F,Junior,3839,TECNOLOGIA,DEV,9,5250,73%,14/06/2021,26,"0,8",17/03/2022,Voluntário
-MULTI,200051,Desligado 114,Advogado SR,M,Senior,8575,FINANCEIRO,Alta Exp,11,9999,86%,16/08/2021,33,"0,6",14/04/2022,Voluntário
-MULTI,200028,Desligado 115,Gerente de Negocios I,M,Gerente,16619,COMERCIAL,Regular,13,18890,88%,08/06/2020,36,"2,2",11/08/2022,Voluntário
-MULTI,200033,Desligado 116,Analista Financeiro JR,M,Junior,3649,FINANCEIRO,Regular,8,4138,88%,11/01/2021,26,"1,1",16/02/2022,Voluntário
-MULTI,200034,Desligado 117,Analista Financeiro JR,F,Junior,3124,FINANCEIRO,Regular,8,4138,75%,11/01/2021,28,"1,5",13/07/2022,Voluntário
-MULTI,200055,Desligado 118,Analista Desenvolvimento PL,M,Pleno,9500,TECNOLOGIA,Dev,10,8375,113%,04/10/2021,25,"0,4",04/03/2022,Voluntário
-MULTI,200024,Desligado 119,Gerente de RH,F,Gerente,16575,PEOPLE & CULTURE,Regular,13,18890,88%,19/03/2012,36,"9,8",17/01/2022,Voluntário
-MULTI,200061,Desligado 120,Analista Desenvolvimento PL,M,Pleno,9000,TECNOLOGIA,Dev,10,8375,107%,03/11/2021,29,"0,5",06/05/2022,Voluntário
-MULTI,200064,Desligado 121,Assistente TI,M,Assistente,3000,TECNOLOGIA,Regular,5,2200,136%,09/03/2022,19,"0,2",02/06/2022,Voluntário
-MULTI,200050,Desligado 122,Analista Desenvolvimento SR,M,Senior,13226,TECNOLOGIA,Dev,11,10450,127%,19/07/2021,28,"0,4",14/01/2022,Voluntário
-MULTI,200021,Desligado 123,Gerente de Negocios II,M,Gerente,16572,COMERCIAL,Regular,13,18890,88%,05/05/2014,47,"8,4",27/10/2022,Involuntário
-BEMOBI,400072,Desligado 124,Analista de RI e M&A PI,M,Pleno,4998,FINANCEIRO,Regular,9,5643,89%,23/03/2021,27,"0,8",10/01/2022,Involuntário
-BEMOBI,400077,Desligado 125,Analista Desenvolvimento PL,M,Pleno,8136,TECNOLOGIA,Dev,10,8375,97%,16/11/2021,27,"0,8",05/09/2022,Involuntário
-BEMOBI,400078,Desligado 126,Analista Desenvolvimento PL,M,Pleno,7627,TECNOLOGIA,Dev,10,8375,91%,16/11/2021,32,"0,8",05/09/2022,Involuntário
-BEMOBI,400079,Desligado 127,Analista Marketing JR,M,Junior,4034,PRODUTOS,Regular,8,4138,97%,07/12/2021,41,"0,7",01/09/2022,Voluntário
-BEMOBI,400001,Desligado 128,Gerente de Infraestrutura I,M,Gerente,20206,TECNOLOGIA,High Tech,13,16000,126%,01/04/2005,59,"17,5",25/10/2022,Involuntário
-BEMOBI,400003,Desligado 129,Gerente de Suporte I,M,Gerente,25475,TECNOLOGIA,High Tech,13,16000,159%,02/05/2008,47,"14,4",25/10/2022,Involuntário
-BEMOBI,100199,Desligado 130,LIDER TÉCNICO,M,Esp/Coord,16564,TECNOLOGIA,Alta Exp,12,13698,121%,15/01/2018,28,"4,8",25/11/2022,Voluntário
-BEMOBI,100218,Desligado 131,ANL ADMINISTRATIVO JR,M,Junior,3186,FINANCEIRO,Regular,8,4138,77%,05/11/2018,29,4,18/11/2022,Voluntário
-BEMOBI,100304,Desligado 132,ANL DE SUPORTE N1 JR,M,Junior,4500,TECNOLOGIA,Alta Exp,9,5250,86%,03/03/2020,27,"2,7",14/11/2022,Voluntário
-BEMOBI,100379,Desligado 133,ANL MARKETING JR,M,Junior,3357,COMERCIAL,Regular,8,4138,81%,03/11/2021,23,"0,9",02/11/2022,Voluntário
-BEMOBI,100109,Desligado 134,ANL DBA SR,M,Senior,11050,TECNOLOGIA,Alta Exp,11,9999,111%,20/03/2015,36,"7,6",14/11/2022,Voluntário
-BEMOBI,100043,Desligado 135,ANL INFRAESTRUTURA SR,M,Senior,12136,TECNOLOGIA,Alta Exp,11,9999,121%,14/12/2012,37,"9,9",20/11/2022,Voluntário
-BEMOBI,400046,Desligado 136,ESPECIALISTA MARKETING,M,Esp/Coord,20266,PRODUTOS,Regular,11,12000,169%,03/06/2019,31,"3,4",14/11/2022,Voluntário
-M4P,100935,Desligado 137,ANL RH SR,F,Senior,7500,PEOPLE & CULTURE,Regular,10,6696,112%,17/05/2022,28,"0,4",01/11/2022,Voluntário
-M4P,100295,Desligado 138,ANL DESENVOLVIMENTO SR,M,Senior,11479,TECNOLOGIA,Dev,11,10450,110%,21/07/2014,33,"8,3",03/11/2022,Voluntário
-M4P,100863,Desligado 139,ANL DE DADOS PL,M,Pleno,9079,TECNOLOGIA,Alta Exp,10,6696,136%,16/08/2021,34,"1,2",02/11/2022,Voluntário
-BEMOBI,400021,Desligado 140,ANL DE SUPORTE N1 PL,M,Pleno,7275,TECNOLOGIA,Alta Exp,10,6696,109%,01/04/2014,40,"8,7",09/12/2022,Voluntário
-M4P,100767,Desligado 141,ANL DE OPERAÇÕES JR,M,Junior,4200,TECNOLOGIA,Alta Exp,9,5250,80%,09/11/2020,36,"2,1",16/12/2022,Voluntário
-M4P,100875,Desligado 142,ANL DESENVOLVIMENTO PL,M,Pleno,9000,TECNOLOGIA,Dev,10,8375,107%,04/10/2021,34,"1,2",04/12/2022,Voluntário
-M4P,100880,Desligado 143,ANL DESENVOLVIMENTO PL,M,Pleno,10000,TECNOLOGIA,Dev,10,8375,119%,18/10/2021,31,"1,1",04/12/2022,Voluntário
-M4P,100858,Desligado 144,DESIGNER JR,M,Junior,4540,PRODUTOS,Alta Exp,9,5250,86%,02/08/2021,28,"1,3",04/12/2022,Voluntário
-M4P,100882,Desligado 145,ANL DESENVOLVIMENTO SR,M,Senior,13000,TECNOLOGIA,Dev,11,10450,124%,03/11/2021,34,"1,1",06/12/2022,Involuntário
-M4P,100937,Desligado 146,ANL DESENVOLVIMENTO PL,M,Pleno,8000,TECNOLOGIA,Dev,10,8375,96%,17/05/2022,8,"0,5",06/12/2022,Involuntário
-M4P,100723,Desligado 147,GERENTE DESENVOLVIMENTO,M,Gerente,21850,TECNOLOGIA,Dev,14,26287,83%,04/05/2020,33,"2,6",02/01/2023,Voluntário
-M4P,100856,Desligado 148,ANL DESENVOLVIMENTO PL,M,Pleno,10441,TECNOLOGIA,Dev,10,8375,125%,02/08/2021,24,"1,4",02/01/2023,Voluntário
-M4P,100904,Desligado 149,ANL DESENVOLVIMENTO JR,F,Junior,3800,TECNOLOGIA,Dev,9,5250,72%,15/02/2022,34,"0,8",02/01/2023,Voluntário
-BEMOBI,100285,Desligado 150,ANL DESENVOLVIMENTO SR,M,Senior,10380,TECNOLOGIA,Dev,11,10450,99%,15/07/2019,35,"3,4",13/01/2023,Voluntário
-BEMOBI,100291,Desligado 151,ANL DESENVOLVIMENTO SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,12/08/2019,28,"3,4",23/01/2023,Involuntário
-M4P,100922,Desligado 152,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,16500,TECNOLOGIA,Dev,12,14187,116%,18/04/2022,35,"0,8",23/01/2023,Involuntário
-M4P,100932,Desligado 153,ESPECIALISTA DESENVOLVIMENTO II,M,Esp/Coord,18000,TECNOLOGIA,Dev,13,19328,93%,10/05/2022,41,"0,7",01/02/2023,Involuntário
-M4P,100989,Desligado 154,ANL DESENVOLVIMENTO PL,M,Pleno,10000,TECNOLOGIA,Dev,10,8375,119%,06/12/2022,26,"0,1",01/02/2023,Involuntário
-M4P,100803,Desligado 155,DESIGNER SR,M,Senior,9391,PRODUTOS,Alta Exp,11,9999,94%,05/04/2021,39,"1,8",27/01/2023,Involuntário
-BEMOBI,100200,Desligado 156,GERENTE DE PRODUTOS,M,Gerente,16510,PRODUTOS,Regular,13,18890,87%,22/01/2018,40,5,31/01/2023,Voluntário
-M4P,100577,Desligado 157,ANL DESENVOLVIMENTO JR,M,Junior,4600,TECNOLOGIA,Dev,9,5250,88%,01/10/2018,31,"4,3",06/02/2023,Involuntário
-M4P,100888,Desligado 158,ANL DESENVOLVIMENTO JR,M,Junior,5402,TECNOLOGIA,Dev,9,5250,103%,16/11/2021,24,"1,2",13/02/2023,Involuntário
-M4P,100939,Desligado 159,ANL DESENVOLVIMENTO PL,M,Pleno,9413,TECNOLOGIA,Dev,10,8375,112%,01/06/2022,43,"0,7",13/02/2023,Involuntário
-M4P,100893,Desligado 160,ASSISTENTE TI,F,Assistente,3208,TECNOLOGIA,Regular,5,2200,146%,13/12/2021,31,"1,2",01/03/2023,Involuntário
-M4P,100933,Desligado 161,ANL DESENVOLVIMENTO PL,M,Pleno,11545,TECNOLOGIA,Dev,10,8375,138%,10/05/2022,42,"0,8",01/03/2023,Involuntário
-M4P,100845,Desligado 162,ANL FINANCEIRO PL,M,Pleno,5002,FINANCEIRO,Regular,9,5643,89%,12/07/2021,30,"1,6",23/02/2023,Involuntário
-BEMOBI,100332,Desligado 163,ANL MARKETING JR,M,Junior,3667,COMERCIAL,Regular,8,4138,89%,04/01/2021,29,"2,1",28/02/2023,Voluntário
-M4P,100964,Desligado 164,ANALISTA DESENVOLVIMENTO PL,M,Pleno,8566,TECNOLOGIA,Dev,10,8375,102%,02/08/2022,33,"0,5",19/02/2023,Voluntário
-M4P,100975,Desligado 165,ANALISTA DESENVOLVIMENTO SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,23/08/2022,24,"0,4",19/02/2023,Voluntário
-BEMOBI,100322,Desligado 166,ANL MARKETING SR,M,Senior,7682,COMERCIAL,Regular,10,6696,115%,22/09/2020,26,"2,4",05/03/2023,Voluntário
-BEMOBI,400074,Desligado 167,ANL MARKETING JR,M,Junior,4242,PRODUTOS,Regular,8,4138,103%,08/06/2021,24,"1,7",07/03/2023,Voluntário
-M4P,100831,Desligado 168,ANL SEGURANÇA JR,M,Junior,5886,TECNOLOGIA,DEV,9,5250,112%,14/06/2021,29,"1,8",16/03/2023,Involuntário
-M4P,100811,Desligado 169,ESPECIALISTA DE DESENVOLVIMENTO I,M,Esp/Coord,16515,TECNOLOGIA,Dev,13,19328,85%,03/05/2021,32,"1,8",19/03/2023,Voluntário
-M4P,100922,Desligado 170,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,17325,TECNOLOGIA,Dev,12,14187,122%,18/04/2022,35,"0,8",23/01/2023,Involuntário
-MULTI,200038,Desligado 171,ANL DESENVOLVIMENTO SR,M,Senior,14747,TECNOLOGIA,Dev,11,10450,141%,22/03/2021,28,2,26/03/2023,Voluntário
-M4P,100969,Desligado 172,ANALISTA DESENVOLVIMENTO PL,M,Pleno,8062,TECNOLOGIA,Dev,10,8375,96%,09/08/2022,25,"0,6",23/03/2023,Voluntário
-M4P,100404,Desligado 173,ANL ADMINISTRATIVO JR,F,Junior,3805,FINANCEIRO,Regular,8,4138,92%,04/04/2016,30,"6,9",26/03/2023,Morte
-M4P,100649,Desligado 174,ESPECIALISTA DE PRODUTO I,M,Esp/Coord,15245,COMERCIAL,Regular,11,12000,127%,07/10/2019,49,"3,4",03/04/2023,Involuntário
-BEMOBI,100392,Desligado 175,ANL DESENVOLVIMENTO PL,M,Pleno,8308,TECNOLOGIA,Dev,10,8375,99%,05/04/2022,24,"0,9",03/04/2023,Involuntário
-BEMOBI,400082,Desligado 176,COORD MKT,F,Esp/Coord,14485,COMERCIAL,Regular,11,12000,121%,07/06/2022,29,"0,8",09/04/2023,Voluntário
-M4P,100792,Desligado 177,ANL RH PL,F,Pleno,6375,PEOPLE & CULTURE,Regular,9,5643,113%,22/02/2021,33,"2,1",09/04/2023,Voluntário
-BEMOBI,100364,Desligado 178,ANL DESENVOLVIMENTO PL,M,Pleno,7140,TECNOLOGIA,Dev,10,8375,85%,02/08/2021,28,"1,7",10/04/2023,Voluntário
-M4P,100794,Desligado 179,ANL BI PL,M,Pleno,6030,TECNOLOGIA,Alta Exp,10,6696,90%,22/02/2021,25,"2,1",17/04/2023,Voluntário
-M4P,101000,Desligado 180,ANL DESENVOLVIMENTO PL,M,Pleno,8500,TECNOLOGIA,Regular,9,5643,151%,01/03/2023,34,"0,1",20/04/2023,Voluntário
-M4P,100755,Desligado 181,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,16000,TECNOLOGIA,Dev,12,14187,113%,04/09/2020,28,"2,6",03/05/2023,Voluntário
-M4P,100065,Desligado 182,GERENTE DE NEGOCIOS IV,M,Gerente,29330,NOVOS NEGOCIOS,Regular,14,25277,116%,21/11/2006,38,"16,4",05/05/2023,Voluntário
-BEMOBI,400064,Desligado 183,ANL ADM/FINANCEIRO,F,Junior,3693,FINANCEIRO,Regular,8,4138,89%,15/01/2020,48,"3,3",11/05/2023,Involuntário
-M4P,100757,Desligado 184,ESPECIALISTA DESENVOLVIMENTO II,M,Esp/Coord,20710,TECNOLOGIA,Dev,13,19328,107%,14/09/2020,35,"2,7",17/05/2023,Voluntário
-BEMOBI,100359,Desligado 185,ANL QA PL,F,Pleno,7020,TECNOLOGIA,Alta Exp,10,6696,105%,02/02/2021,26,"2,3",21/05/2023,Voluntário
-M4P,100921,Desligado 186,ANL DESENVOLVIMENTO PL,M,Pleno,8762,TECNOLOGIA,Dev,10,8375,105%,18/04/2022,26,"1,1",23/05/2023,Involuntário
-M4P,100978,Desligado 187,COORDENADOR DE PRODUTOS,M,Esp/Coord,16000,PRODUTOS,Regular,11,12000,133%,06/09/2022,40,"0,7",23/05/2023,Involuntário
-M4P,100901,Desligado 188,GERENTE DESENVOLVIMENTO,M,Gerente,28000,TECNOLOGIA,Dev,14,26287,107%,01/02/2022,46,"1,3",23/05/2023,Involuntário
-BEMOBI,100321,Desligado 189,COORD DE DESIGN,F,Esp/Coord,13248,PRODUTOS,Regular,11,12000,110%,22/09/2020,50,"2,7",23/05/2023,Involuntário
-BEMOBI,100375,Desligado 190,GERENTE RH,F,Gerente,17000,PEOPLE & CULTURE,Regular,13,18890,90%,07/10/2021,40,"1,6",23/05/2023,Involuntário
-M4P,100952,Desligado 191,ANL DESENVOLVIMENTO PL,M,Pleno,7108,TECNOLOGIA,Dev,10,8375,85%,05/07/2022,26,"0,8",23/05/2023,Involuntário
-MULTI,200070,Desligado 192,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,16000,TECNOLOGIA,Dev,12,14187,113%,13/09/2022,40,"0,7",23/05/2023,Involuntário
-M4P,100730,Desligado 193,ANL DESENVOLVIMENTO PL,M,Pleno,7734,TECNOLOGIA,Dev,10,8375,92%,11/05/2020,30,3,23/05/2023,Involuntário
-M4P,100836,Desligado 194,ANL DESENVOLVIMENTO PL,M,Pleno,11003,TECNOLOGIA,Dev,10,8375,131%,05/07/2021,35,"1,8",23/05/2023,Involuntário
-BEMOBI,100046,Desligado 195,ESPECIALISTA FINANCEIRO,M,Esp/Coord,10977,FINANCEIRO,Regular,11,12000,91%,10/01/2013,36,"10,3",01/06/2023,Voluntário
-M4P,100810,Desligado 196,ANL BI PL,F,Pleno,9335,TECNOLOGIA,Alta Exp,10,6696,139%,19/04/2021,29,"2,1",07/06/2023,Voluntário
-BEMOBI,400028,Desligado 197,ANL DE SUPORTE N1 PL,M,Pleno,7707,TECNOLOGIA,Alta Exp,10,6696,115%,04/04/2016,35,"7,2",12/06/2023,Involuntário
-BEMOBI,100380,Desligado 198,ANL DESENVOLVIMENTO PL,M,Pleno,7431,TECNOLOGIA,Dev,10,8375,89%,09/11/2021,23,"1,6",13/06/2023,Voluntário
-M4P,100950,Desligado 199,ANL FINANCEIRO SR,F,Senior,8124,FINANCEIRO,Regular,10,6696,121%,05/07/2022,28,"0,9",18/06/2023,Voluntário
-M4P,100942,Desligado 200,ANL MARKETING PL,M,Pleno,5247,COMERCIAL,Regular,9,5643,93%,14/06/2022,35,1,22/06/2023,Involuntário
-BEMOBI,100355,Desligado 201,ANL MARKETING JR,F,Junior,3667,COMERCIAL,Regular,8,4138,89%,08/06/2021,27,2,29/06/2023,Involuntário
-M4P,100963,Desligado 202,ANALISTA DESENVOLVIMENTO SR,M,Senior,13100,TECNOLOGIA,Dev,11,10450,125%,19/07/2022,39,"0,9",02/07/2023,Voluntário
-M4P,100271,Desligado 203,ESPECIALISTA DE PRODUTO I,M,Esp/Coord,17114,COMERCIAL,Regular,11,12000,143%,10/04/2014,47,"9,3",12/07/2023,Involuntário
-BEMOBI,100329,Desligado 204,ANL DESENVOLVIMENTO PL,M,Pleno,9831,TECNOLOGIA,Dev,10,8375,117%,23/11/2020,26,"2,6",12/07/2023,Voluntário
-BEMOBI,400059,Desligado 205,ANL INFRAESTRUTURA PL,M,Pleno,6154,TECNOLOGIA,Alta Exp,10,6696,92%,15/10/2019,39,"3,8",24/07/2023,Involuntário
-M4P,100686,Desligado 206,ANALISTA DESENVOLVIMENTO SR,M,Senior,11873,TECNOLOGIA,Dev,11,10450,114%,02/03/2020,32,"3,3",01/08/2023,Involuntário
-BEMOBI,100346,Desligado 207,ANALISTA MARKETING JR,F,Junior,3827,PRODUTOS,Regular,8,4138,92%,13/04/2021,25,"2,3",06/08/2023,Voluntário
-M4P,100920,Desligado 208,CONTROLLER FINANCEIRO,M,Gerente,25000,FINANCEIRO,Regular,13,18890,132%,18/04/2022,33,"1,3",06/08/2023,Voluntário
-M4P,100974,Desligado 209,ANALISTA DE PRODUTOS JR,F,Junior,3527,PRODUTOS,Alta Exp,9,5250,67%,16/08/2022,37,"0,9",12/08/2023,Voluntário
-M4P,100923,Desligado 210,ANALISTA DESENVOLVIMENTO SR,M,Senior,13916,TECNOLOGIA,Dev,11,10450,133%,18/04/2022,28,"1,3",24/08/2023,Voluntário
-MULTI,200048,Desligado 211,ASSISTENTE DE PRODUTOS,M,Assistente,3334,COMERCIAL,Regular,5,2200,152%,12/07/2021,28,"2,1",08/09/2023,Voluntário
-M4P,100946,Desligado 212,ANALISTA DESENVOLVIMENTO JR,M,Junior,4297,TECNOLOGIA,DEV,9,5250,82%,14/06/2022,33,"1,2",11/09/2023,Voluntário
-M4P,100899,Desligado 213,GERENTE DESENVOLVIMENTO,M,Gerente,21000,TECNOLOGIA,Dev,14,26287,80%,04/01/2022,33,"1,7",17/09/2023,Voluntário
-BEMOBI,100398,Desligado 214,ANALISTA DE PRODUTOS JR,F,Junior,4949,COMERCIAL,Alta Exp,9,5250,94%,10/05/2022,33,"1,3",24/09/2023,Voluntário
-BEMOBI,100414,Desligado 215,ESPECIALISTA DESENVOLVIMENTO,M,Esp/Coord,13000,TECNOLOGIA,Dev,12,14187,92%,14/02/2023,33,"0,6",26/09/2023,Involuntário
-MULTI,200030,Desligado 216,ESPECIALISTA DESENVOLVIMENTO I,F,Esp/Coord,14592,TECNOLOGIA,Dev,12,14187,103%,04/01/2021,33,"2,8",04/10/2023,Voluntário
-M4P,100500,Desligado 217,COORDENADOR FINANCEIRO,F,Esp/Coord,12481,FINANCEIRO,Regular,11,12000,104%,11/09/2017,33,6,10/10/2023,Involuntário
-M4P,100956,Desligado 218,ANALISTA DESENVOLVIMENTO PL,M,Pleno,8994,TECNOLOGIA,Dev,10,8375,107%,12/07/2022,33,"1,3",07/11/2023,Involuntário
-M4P,101027,Desligado 219,ANALISTA FINANCEIRO SR,F,Senior,8153,FINANCEIRO,Regular,10,6696,122%,08/08/2023,33,"0,2",01/11/2023,Involuntário
+Empresa,Nome,Cargo,Sexo,Nivel,Salarioo,Diretoria,Categoria,Grade,Mediana,PIR,Admissao,Idade,TdC,Demissao,Motivo,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 1,Coordenador Desenvolvimento,F,Esp/Coord,12147,TECNOLOGIA,Dev,13,19328,63%,15/01/2009,41,159,25/04/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 2,Analista de Suporte N1 PL,M,Pleno,6385,TECNOLOGIA,Regular,9,5643,113%,17/10/2014,39,92,10/07/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 3,Analista Desenvolvimento SR,F,Senior,10836,TECNOLOGIA,Dev,11,10450,104%,12/11/2019,28,25,07/01/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 4,Analista Desenvolvimento JR,F,Junior,5000,TECNOLOGIA,DEV,9,5250,95%,12/01/2021,24,12,28/01/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 5,Analista Marketing JR,M,Junior,3313,PRODUTOS,Regular,8,4138,80%,04/02/2019,26,38,14/04/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 6,Analista Marketing SR,M,Senior,6950,COMERCIAL,High Tech,11,9942,70%,20/05/2019,32,34,28/03/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 7,Especialista Desenvolvimento,M,Esp/Coord,13075,TECNOLOGIA,Dev,12,14187,92%,01/08/2019,38,32,14/04/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 8,Gerente de BI,M,Gerente,17215,TECNOLOGIA,Dev,14,26287,65%,14/04/2020,38,27,12/08/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 9,Analista Desenvolvimento JR,M,Junior,5980,TECNOLOGIA,DEV,9,5250,114%,19/05/2020,25,27,02/09/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 10,Analista Marketing JR,M,Junior,2919,COMERCIAL,Regular,8,4138,71%,22/09/2020,30,16,11/02/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 11,Analista RH JR,M,Junior,3105,PEOPLE & CULTURE,Regular,8,4138,75%,03/05/2021,28,9,28/02/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 12,Especialista Financeiro,M,Esp/Coord,9748,FINANCEIRO,Regular,11,12000,81%,18/05/2021,55,8,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 13,Analista Financeiro SR,M,Senior,7122,FINANCEIRO,Regular,10,6696,106%,06/07/2021,41,11,15/06/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 14,Analista BI JR,F,Junior,4501,TECNOLOGIA,DEV,9,5250,86%,02/08/2021,24,9,02/05/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 15,Analista Marketing JR,F,Junior,2919,COMERCIAL,Regular,8,4138,71%,21/09/2021,40,11,09/09/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 16,Analista Marketing JR,F,Junior,3500,PRODUTOS,Regular,8,4138,85%,05/10/2021,26,4,04/03/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 17,Analista Desenvolvimento PL,M,Pleno,8000,TECNOLOGIA,Dev,10,8375,96%,07/12/2021,41,5,03/06/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 18,Analista Desenvolvimento PL,M,Pleno,9600,TECNOLOGIA,Dev,10,8375,115%,16/12/2021,25,7,07/08/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 19,Analista de RI e M&A PI,M,Pleno,5000,FINANCEIRO,Regular,9,5643,89%,10/01/2022,27,7,31/08/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 20,Assistente Administrativo,M,Assistente,2000,FINANCEIRO,Regular,5,2200,91%,05/04/2022,30,2,09/06/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 21,Analista Desenvolvimento SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,03/05/2022,28,1,03/06/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 22,Designer PL,F,Pleno,5509,PRODUTOS,Alta Exp,10,6696,82%,13/04/2021,25,17,23/09/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 23,Analista de Marketing PL,M,Pleno,5128,COMERCIAL,Regular,9,5643,91%,22/09/2020,33,24,03/10/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 24,ANALISTA DE DADOS PL,M,Pleno,8500,TECNOLOGIA,High Tech,10,7685,111%,10/05/2022,36,4,03/10/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 25,Analista de Marketing SR,M,Senior,9938,PRODUTOS,Alta Exp,11,9999,99%,03/09/2018,33,49,27/10/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 26,Especialista Desenvolvimento II,M,Esp/Coord,18172,TECNOLOGIA,Dev,13,19328,94%,04/05/2020,27,23,14/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 27,Analista Financeiro SR,M,Senior,7152,FINANCEIRO,Regular,10,6696,107%,17/05/2010,59,145,06/07/2022,Falecimento,,,,,,,,,,,,,,,,
+M4P,Desligado 28,Gerente de Controladoria SR,M,Gerente,28325,FINANCEIRO,Regular,13,18890,150%,20/09/2010,37,136,14/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 29,Analista Processos PL,M,Pleno,6896,TECNOLOGIA,Alta Exp,10,6696,103%,18/03/2013,37,106,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 30,Analista de Produtos SR,M,Senior,11316,PRODUTOS,Alta Exp,11,9999,113%,06/11/2017,31,52,09/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 31,Analista Desenvolvimento SR,M,Senior,11587,TECNOLOGIA,Dev,11,10450,111%,23/11/2020,32,16,08/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 32,Especialista Desenvolvimento II,M,Esp/Coord,19000,TECNOLOGIA,Dev,13,19328,98%,18/05/2009,35,154,14/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 33,Analista Desenvolvimento SR,M,Senior,11201,TECNOLOGIA,Dev,11,10450,107%,08/07/2019,32,33,27/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 34,Especialista Desenvolvimento II,M,Esp/Coord,20471,TECNOLOGIA,Dev,13,19328,106%,01/03/2016,46,74,22/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 35,Analista Desenvolvimento JR,M,Junior,6000,TECNOLOGIA,DEV,9,5250,114%,13/10/2014,32,88,04/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 36,Analista Financeiro PL,M,Pleno,5300,FINANCEIRO,Regular,9,5643,94%,06/07/2020,36,19,04/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 37,Gerente de Negocios II,M,Gerente,22084,COMERCIAL,Regular,13,18890,117%,04/12/2017,44,53,06/05/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 38,Analista Processos JR,F,Junior,3498,PRODUTOS,Regular,8,4138,85%,05/02/2018,31,51,27/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 39,Assistente de Produtos,F,Assistente,3323,COMERCIAL,Regular,5,2200,151%,04/06/2018,32,50,31/08/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 40,Analista Opera��es JR,M,Junior,3836,TECNOLOGIA,Alta Exp,9,5250,73%,17/09/2018,36,44,31/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 41,Analista RH PL,F,Pleno,4866,PEOPLE & CULTURE,Regular,9,5643,86%,06/01/2020,35,26,18/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 42,Especialista Desenvolvimento I,M,Esp/Coord,16000,TECNOLOGIA,Dev,12,14187,113%,24/04/2019,31,34,25/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 43,Analista de Negocios SR,M,Senior,11319,COMERCIAL,Regular,10,6696,169%,10/06/2019,31,34,14/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 44,Analista RH PL,M,Pleno,5535,PEOPLE & CULTURE,Regular,9,5643,98%,22/05/2019,38,35,24/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 45,Analista Desenvolvimento PL,M,Pleno,7901,TECNOLOGIA,Dev,10,8375,94%,01/07/2019,25,31,18/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 46,Analista Desenvolvimento SR,M,Senior,13226,TECNOLOGIA,Dev,11,10450,127%,19/07/2021,34,9,29/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 47,Especialista de Processos I,M,Esp/Coord,14506,TECNOLOGIA,Alta Exp,12,13698,106%,26/08/2019,46,29,15/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 48,Analista Desenvolvimento SR,M,Senior,12000,TECNOLOGIA,Dev,11,10450,115%,14/10/2019,30,27,04/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 49,Especialista de Processos II,M,Esp/Coord,14909,TECNOLOGIA,Alta Exp,12,13698,109%,22/10/2019,38,27,11/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 50,Especialista Desenvolvimento I,M,Esp/Coord,15613,TECNOLOGIA,Dev,12,14187,110%,22/10/2019,43,27,11/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 51,Analista de Produtos SR,M,Senior,12321,PRODUTOS,Alta Exp,11,9999,123%,09/12/2019,38,32,19/08/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 52,Analista de Produtos PL,F,Pleno,8369,PRODUTOS,High Tech,10,7685,109%,23/11/2020,30,15,11/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 53,Gerente de Negocios I,F,Gerente,16013,COMERCIAL,Regular,13,18890,85%,06/01/2020,45,25,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 54,Especialista RH I,F,Esp/Coord,12703,PEOPLE & CULTURE,Regular,11,12000,106%,01/07/2019,35,33,11/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 55,Especialista Desenvolvimento I,M,Esp/Coord,15010,TECNOLOGIA,Dev,12,14187,106%,06/04/2020,24,25,30/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 56,Especialista Desenvolvimento I,M,Esp/Coord,15348,TECNOLOGIA,Dev,12,14187,108%,13/04/2020,44,24,06/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 57,Analista Desenvolvimento PL,M,Pleno,7000,TECNOLOGIA,Dev,10,8375,84%,13/04/2020,34,25,31/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 58,Analista Desenvolvimento SR,M,Senior,13449,TECNOLOGIA,Dev,11,10450,129%,03/08/2020,32,25,23/09/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 59,Analista de Produtos SR,M,Senior,12242,PRODUTOS,Alta Exp,11,9999,122%,23/07/2018,38,41,14/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 60,Especialista Designer I,F,Esp/Coord,12386,PRODUTOS,Regular,11,12000,103%,24/04/2019,38,33,31/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 61,Analista Desenvolvimento SR,M,Senior,11000,TECNOLOGIA,Dev,11,10450,105%,04/10/2021,33,5,09/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 62,Analista Desenvolvimento SR,M,Senior,12000,TECNOLOGIA,Dev,11,10450,115%,21/01/2020,34,23,07/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 63,Analista de Dados PL,F,Pleno,7361,TECNOLOGIA,High Tech,10,7685,96%,06/04/2020,27,21,07/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 64,Especialista Desenvolvimento II,M,Esp/Coord,17408,TECNOLOGIA,Dev,13,19328,90%,01/06/2015,36,82,29/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 65,Especialista Desenvolvimento I,M,Esp/Coord,16729,TECNOLOGIA,Dev,12,14187,118%,04/05/2020,32,21,16/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 66,Especialista Designer I,M,Esp/Coord,12326,PRODUTOS,Regular,11,12000,103%,22/10/2018,39,40,09/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 67,Especialista Desenvolvimento I,M,Esp/Coord,15500,TECNOLOGIA,Dev,12,14187,109%,18/05/2020,26,23,13/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 68,Analista Desenvolvimento PL,M,Pleno,8722,TECNOLOGIA,Dev,10,8375,104%,14/06/2021,22,9,22/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 69,Analista Desenvolvimento SR,M,Senior,13000,TECNOLOGIA,Dev,11,10450,124%,06/04/2020,33,21,28/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 70,Analista Desenvolvimento PL,F,Pleno,10490,TECNOLOGIA,Dev,10,8375,125%,21/09/2020,27,21,03/07/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 71,Especialista Desenvolvimento I,M,Esp/Coord,15462,TECNOLOGIA,Dev,12,14187,109%,11/03/2015,36,84,06/04/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 72,Especialista Desenvolvimento I,M,Esp/Coord,15734,TECNOLOGIA,Dev,12,14187,111%,18/05/2020,28,22,23/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 73,Analista Desenvolvimento PL,M,Pleno,10577,TECNOLOGIA,Dev,10,8375,126%,01/12/2020,26,17,06/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 74,Analista de Produtos PL,F,Pleno,9812,COMERCIAL,High Tech,10,7685,128%,01/12/2020,25,19,31/07/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 75,Analista Desenvolvimento PL,M,Pleno,8000,TECNOLOGIA,Dev,10,8375,96%,01/12/2020,25,17,10/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 76,Gerente de Produtos II,M,Gerente,30998,PRODUTOS,Regular,14,25277,123%,21/12/2020,37,18,15/07/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 77,Especialista Desenvolvimento I,M,Esp/Coord,16043,TECNOLOGIA,Dev,12,14187,113%,04/01/2021,35,13,11/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 78,Analista Desenvolvimento JR,M,Junior,5000,TECNOLOGIA,DEV,9,5250,95%,10/02/2021,29,12,18/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 79,Especialista de Produto I,M,Esp/Coord,14086,PRODUTOS,Regular,11,12000,117%,05/04/2021,27,15,10/07/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 80,Analista Desenvolvimento SR,M,Senior,13226,TECNOLOGIA,Dev,11,10450,127%,26/07/2021,41,12,19/08/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 81,Analista Desenvolvimento PL,M,Pleno,7334,TECNOLOGIA,Dev,10,8375,88%,04/09/2020,24,16,07/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 82,Analista Seguran�a PL,M,Pleno,7304,TECNOLOGIA,Alta Exp,10,6696,109%,19/04/2021,25,9,21/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 83,Analista Processos SR,M,Senior,10347,TECNOLOGIA,Alta Exp,11,9999,103%,03/05/2021,48,9,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 84,Analista RH JR,M,Junior,3415,PEOPLE & CULTURE,Regular,8,4138,83%,10/05/2021,33,8,09/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 85,Analista Desenvolvimento PL,M,Pleno,9002,TECNOLOGIA,Dev,10,8375,107%,17/05/2021,29,10,11/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 86,Designer PL,F,Pleno,7500,PRODUTOS,Alta Exp,10,6696,112%,13/10/2021,33,4,09/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 87,Analista Processos SR,F,Senior,10261,TECNOLOGIA,Alta Exp,11,9999,103%,21/06/2021,40,7,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 88,Gerente de Produtos,F,Gerente,17444,PRODUTOS,Regular,13,18890,92%,28/06/2021,46,6,14/01/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 89,Analista Processos PL,F,Pleno,9157,TECNOLOGIA,Alta Exp,10,6696,137%,12/07/2021,30,6,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 90,Assistente de Produtos,M,Assistente,3052,PRODUTOS,Regular,5,2200,139%,12/07/2021,27,8,18/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 91,Especialista de Produto I,F,Esp/Coord,16028,COMERCIAL,Regular,11,12000,134%,16/03/2020,42,24,08/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 92,Analista Desenvolvimento PL,M,Pleno,9004,TECNOLOGIA,Dev,10,8375,108%,19/07/2021,26,10,29/05/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 93,Analista Processos JR,M,Junior,5300,TECNOLOGIA,DEV,9,5250,101%,20/09/2021,23,4,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 94,Gerente Desenvolvimento II,M,Gerente,30000,TECNOLOGIA,Dev,14,26287,114%,24/04/2014,36,94,11/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 95,Analista de Produtos JR,F,Junior,3800,TECNOLOGIA,Alta Exp,9,5250,72%,03/11/2021,30,8,30/07/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 96,Analista Desenvolvimento JR,M,Junior,3800,TECNOLOGIA,DEV,9,5250,72%,16/11/2021,25,2,02/02/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 97,Analista Processos SR,M,Senior,10000,TECNOLOGIA,Alta Exp,11,9999,100%,16/11/2021,47,2,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 98,Analista Financeiro PL,F,Pleno,4500,FINANCEIRO,Regular,9,5643,80%,16/11/2021,56,2,10/02/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 99,Analista de Produtos PL,F,Pleno,8000,COMERCIAL,High Tech,10,7685,104%,03/05/2022,30,4,30/09/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 100,Analista Desenvolvimento SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,12/07/2022,42,1,08/09/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 101,Designer JR,M,Junior,3400,COMERCIAL,Alta Exp,9,5250,65%,12/07/2022,22,2,12/09/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 102,Analista Desenvolvimento PL,M,Pleno,10720,TECNOLOGIA,Dev,10,8375,128%,02/10/2017,33,53,15/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 103,Gerente de Produtos,M,Gerente,19375,COMERCIAL,Regular,13,18890,103%,03/08/2015,32,80,08/04/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 104,Especialista Desenvolvimento I,M,Esp/Coord,16563,TECNOLOGIA,Dev,12,14187,117%,09/03/2020,28,23,04/03/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 105,Gerente de Produto,F,Gerente,20174,COMERCIAL,Regular,13,18890,107%,02/08/2021,41,13,20/09/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 106,Analista de Desenvolvimento PL,M,Pleno,8850,TECNOLOGIA,Dev,10,8375,106%,14/06/2022,30,3,23/09/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 107,Analista de Desenvolvimento SR,M,Senior,12159,TECNOLOGIA,Dev,11,10450,116%,18/10/2016,45,71,19/09/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 108,Analista de Desenvolvimento SR,M,Senior,13000,TECNOLOGIA,Dev,11,10450,124%,19/07/2022,50,2,11/10/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 109,Coordenador de Facilities,M,Esp/Coord,9099,FINANCEIRO,Regular,11,12000,76%,14/01/2013,37,116,13/10/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 110,Coordenador Financeiro,F,Esp/Coord,10774,FINANCEIRO,Regular,11,12000,90%,24/04/2019,46,41,13/10/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 111,Analista de Marketing SR,M,Senior,7032,COMERCIAL,Regular,10,6696,105%,12/04/2022,33,6,19/10/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 112,Especialista Desenvolvimento I,M,Esp/Coord,16890,TECNOLOGIA,Dev,12,14187,119%,02/04/2012,50,122,12/06/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 113,Analista Desenvolvimento JR,F,Junior,3839,TECNOLOGIA,DEV,9,5250,73%,14/06/2021,26,9,17/03/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 114,Advogado SR,M,Senior,8575,FINANCEIRO,Alta Exp,11,9999,86%,16/08/2021,33,7,14/04/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 115,Gerente de Negocios I,M,Gerente,16619,COMERCIAL,Regular,13,18890,88%,08/06/2020,36,26,11/08/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 116,Analista Financeiro JR,M,Junior,3649,FINANCEIRO,Regular,8,4138,88%,11/01/2021,26,13,16/02/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 117,Analista Financeiro JR,F,Junior,3124,FINANCEIRO,Regular,8,4138,75%,11/01/2021,28,18,13/07/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 118,Analista Desenvolvimento PL,M,Pleno,9500,TECNOLOGIA,Dev,10,8375,113%,04/10/2021,25,5,04/03/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 119,Gerente de RH,F,Gerente,16575,PEOPLE & CULTURE,Regular,13,18890,88%,19/03/2012,36,117,17/01/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 120,Analista Desenvolvimento PL,M,Pleno,9000,TECNOLOGIA,Dev,10,8375,107%,03/11/2021,29,6,06/05/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 121,Assistente TI,M,Assistente,3000,TECNOLOGIA,Regular,5,2200,136%,09/03/2022,19,2,02/06/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 122,Analista Desenvolvimento SR,M,Senior,13226,TECNOLOGIA,Dev,11,10450,127%,19/07/2021,28,5,14/01/2022,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 123,Gerente de Negocios II,M,Gerente,16572,COMERCIAL,Regular,13,18890,88%,05/05/2014,47,101,27/10/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 124,Analista de RI e M&A PI,M,Pleno,4998,FINANCEIRO,Regular,9,5643,89%,23/03/2021,27,9,10/01/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 125,Analista Desenvolvimento PL,M,Pleno,8136,TECNOLOGIA,Dev,10,8375,97%,16/11/2021,27,9,05/09/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 126,Analista Desenvolvimento PL,M,Pleno,7627,TECNOLOGIA,Dev,10,8375,91%,16/11/2021,32,9,05/09/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 127,Analista Marketing JR,M,Junior,4034,PRODUTOS,Regular,8,4138,97%,07/12/2021,41,8,01/09/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 128,Gerente de Infraestrutura I,M,Gerente,20206,TECNOLOGIA,High Tech,13,16000,126%,01/04/2005,59,210,25/10/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 129,Gerente de Suporte I,M,Gerente,25475,TECNOLOGIA,High Tech,13,16000,159%,02/05/2008,47,173,25/10/2022,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 130,LIDER T�CNICO,M,Esp/Coord,16564,TECNOLOGIA,Alta Exp,12,13698,121%,15/01/2018,28,58,25/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 131,ANL ADMINISTRATIVO JR,M,Junior,3186,FINANCEIRO,Regular,8,4138,77%,05/11/2018,29,48,18/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 132,ANL DE SUPORTE N1 JR,M,Junior,4500,TECNOLOGIA,Alta Exp,9,5250,86%,03/03/2020,27,32,14/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 133,ANL MARKETING JR,M,Junior,3357,COMERCIAL,Regular,8,4138,81%,03/11/2021,23,11,02/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 134,ANL DBA SR,M,Senior,11050,TECNOLOGIA,Alta Exp,11,9999,111%,20/03/2015,36,91,14/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 135,ANL INFRAESTRUTURA SR,M,Senior,12136,TECNOLOGIA,Alta Exp,11,9999,121%,14/12/2012,37,119,20/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 136,ESPECIALISTA MARKETING,M,Esp/Coord,20266,PRODUTOS,Regular,11,12000,169%,03/06/2019,31,41,14/11/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 137,ANL RH SR,F,Senior,7500,PEOPLE & CULTURE,Regular,10,6696,112%,17/05/2022,28,5,01/11/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 138,ANL DESENVOLVIMENTO SR,M,Senior,11479,TECNOLOGIA,Dev,11,10450,110%,21/07/2014,33,99,03/11/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 139,ANL DE DADOS PL,M,Pleno,9079,TECNOLOGIA,Alta Exp,10,6696,136%,16/08/2021,34,14,02/11/2022,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 140,ANL DE SUPORTE N1 PL,M,Pleno,7275,TECNOLOGIA,Alta Exp,10,6696,109%,01/04/2014,40,104,09/12/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 141,ANL DE OPERA��ES JR,M,Junior,4200,TECNOLOGIA,Alta Exp,9,5250,80%,09/11/2020,36,25,16/12/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 142,ANL DESENVOLVIMENTO PL,M,Pleno,9000,TECNOLOGIA,Dev,10,8375,107%,04/10/2021,34,14,04/12/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 143,ANL DESENVOLVIMENTO PL,M,Pleno,10000,TECNOLOGIA,Dev,10,8375,119%,18/10/2021,31,13,04/12/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 144,DESIGNER JR,M,Junior,4540,PRODUTOS,Alta Exp,9,5250,86%,02/08/2021,28,16,04/12/2022,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 145,ANL DESENVOLVIMENTO SR,M,Senior,13000,TECNOLOGIA,Dev,11,10450,124%,03/11/2021,34,13,06/12/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 146,ANL DESENVOLVIMENTO PL,M,Pleno,8000,TECNOLOGIA,Dev,10,8375,96%,17/05/2022,8,6,06/12/2022,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 147,GERENTE DESENVOLVIMENTO,M,Gerente,21850,TECNOLOGIA,Dev,14,26287,83%,04/05/2020,33,31,02/01/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 148,ANL DESENVOLVIMENTO PL,M,Pleno,10441,TECNOLOGIA,Dev,10,8375,125%,02/08/2021,24,17,02/01/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 149,ANL DESENVOLVIMENTO JR,F,Junior,3800,TECNOLOGIA,Dev,9,5250,72%,15/02/2022,34,10,02/01/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 150,ANL DESENVOLVIMENTO SR,M,Senior,10380,TECNOLOGIA,Dev,11,10450,99%,15/07/2019,35,41,13/01/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 151,ANL DESENVOLVIMENTO SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,12/08/2019,28,41,23/01/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 152,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,16500,TECNOLOGIA,Dev,12,14187,116%,18/04/2022,35,9,23/01/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 153,ESPECIALISTA DESENVOLVIMENTO II,M,Esp/Coord,18000,TECNOLOGIA,Dev,13,19328,93%,10/05/2022,41,8,01/02/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 154,ANL DESENVOLVIMENTO PL,M,Pleno,10000,TECNOLOGIA,Dev,10,8375,119%,06/12/2022,26,1,01/02/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 155,DESIGNER SR,M,Senior,9391,PRODUTOS,Alta Exp,11,9999,94%,05/04/2021,39,21,27/01/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 156,GERENTE DE PRODUTOS,M,Gerente,16510,PRODUTOS,Regular,13,18890,87%,22/01/2018,40,60,31/01/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 157,ANL DESENVOLVIMENTO JR,M,Junior,4600,TECNOLOGIA,Dev,9,5250,88%,01/10/2018,31,52,06/02/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 158,ANL DESENVOLVIMENTO JR,M,Junior,5402,TECNOLOGIA,Dev,9,5250,103%,16/11/2021,24,14,13/02/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 159,ANL DESENVOLVIMENTO PL,M,Pleno,9413,TECNOLOGIA,Dev,10,8375,112%,01/06/2022,43,8,13/02/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 160,ASSISTENTE TI,F,Assistente,3208,TECNOLOGIA,Regular,5,2200,146%,13/12/2021,31,14,01/03/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 161,ANL DESENVOLVIMENTO PL,M,Pleno,11545,TECNOLOGIA,Dev,10,8375,138%,10/05/2022,42,9,01/03/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 162,ANL FINANCEIRO PL,M,Pleno,5002,FINANCEIRO,Regular,9,5643,89%,12/07/2021,30,19,23/02/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 163,ANL MARKETING JR,M,Junior,3667,COMERCIAL,Regular,8,4138,89%,04/01/2021,29,25,28/02/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 164,ANALISTA DESENVOLVIMENTO PL,M,Pleno,8566,TECNOLOGIA,Dev,10,8375,102%,02/08/2022,33,6,19/02/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 165,ANALISTA DESENVOLVIMENTO SR,M,Senior,11500,TECNOLOGIA,Dev,11,10450,110%,23/08/2022,24,5,19/02/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 166,ANL MARKETING SR,M,Senior,7682,COMERCIAL,Regular,10,6696,115%,22/09/2020,26,29,05/03/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 167,ANL MARKETING JR,M,Junior,4242,PRODUTOS,Regular,8,4138,103%,08/06/2021,24,20,07/03/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 168,ANL SEGURAN�A JR,M,Junior,5886,TECNOLOGIA,DEV,9,5250,112%,14/06/2021,29,21,16/03/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 169,ESPECIALISTA DE DESENVOLVIMENTO I,M,Esp/Coord,16515,TECNOLOGIA,Dev,13,19328,85%,03/05/2021,32,22,19/03/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 170,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,17325,TECNOLOGIA,Dev,12,14187,122%,18/04/2022,35,9,23/01/2023,involuntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 171,ANL DESENVOLVIMENTO SR,M,Senior,14747,TECNOLOGIA,Dev,11,10450,141%,22/03/2021,28,24,26/03/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 172,ANALISTA DESENVOLVIMENTO PL,M,Pleno,8062,TECNOLOGIA,Dev,10,8375,96%,09/08/2022,25,7,23/03/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 173,ANL ADMINISTRATIVO JR,F,Junior,3805,FINANCEIRO,Regular,8,4138,92%,04/04/2016,30,83,26/03/2023,Morte,,,,,,,,,,,,,,,,
+M4P,Desligado 174,ESPECIALISTA DE PRODUTO I,M,Esp/Coord,15245,COMERCIAL,Regular,11,12000,127%,07/10/2019,49,41,03/04/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 175,ANL DESENVOLVIMENTO PL,M,Pleno,8308,TECNOLOGIA,Dev,10,8375,99%,05/04/2022,24,11,03/04/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 176,COORD MKT,F,Esp/Coord,14485,COMERCIAL,Regular,11,12000,121%,07/06/2022,29,10,09/04/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 177,ANL RH PL,F,Pleno,6375,PEOPLE & CULTURE,Regular,9,5643,113%,22/02/2021,33,25,09/04/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 178,ANL DESENVOLVIMENTO PL,M,Pleno,7140,TECNOLOGIA,Dev,10,8375,85%,02/08/2021,28,20,10/04/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 179,ANL BI PL,M,Pleno,6030,TECNOLOGIA,Alta Exp,10,6696,90%,22/02/2021,25,25,17/04/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 180,ANL DESENVOLVIMENTO PL,M,Pleno,8500,TECNOLOGIA,Regular,9,5643,151%,01/03/2023,34,1,20/04/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 181,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,16000,TECNOLOGIA,Dev,12,14187,113%,04/09/2020,28,31,03/05/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 182,GERENTE DE NEGOCIOS IV,M,Gerente,29330,NOVOS NEGOCIOS,Regular,14,25277,116%,21/11/2006,38,197,05/05/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 183,ANL ADM/FINANCEIRO,F,Junior,3693,FINANCEIRO,Regular,8,4138,89%,15/01/2020,48,39,11/05/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 184,ESPECIALISTA DESENVOLVIMENTO II,M,Esp/Coord,20710,TECNOLOGIA,Dev,13,19328,107%,14/09/2020,35,32,17/05/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 185,ANL QA PL,F,Pleno,7020,TECNOLOGIA,Alta Exp,10,6696,105%,02/02/2021,26,27,21/05/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 186,ANL DESENVOLVIMENTO PL,M,Pleno,8762,TECNOLOGIA,Dev,10,8375,105%,18/04/2022,26,13,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 187,COORDENADOR DE PRODUTOS,M,Esp/Coord,16000,PRODUTOS,Regular,11,12000,133%,06/09/2022,40,8,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 188,GERENTE DESENVOLVIMENTO,M,Gerente,28000,TECNOLOGIA,Dev,14,26287,107%,01/02/2022,46,15,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 189,COORD DE DESIGN,F,Esp/Coord,13248,PRODUTOS,Regular,11,12000,110%,22/09/2020,50,32,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 190,GERENTE RH,F,Gerente,17000,PEOPLE & CULTURE,Regular,13,18890,90%,07/10/2021,40,19,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 191,ANL DESENVOLVIMENTO PL,M,Pleno,7108,TECNOLOGIA,Dev,10,8375,85%,05/07/2022,26,10,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 192,ESPECIALISTA DESENVOLVIMENTO I,M,Esp/Coord,16000,TECNOLOGIA,Dev,12,14187,113%,13/09/2022,40,8,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 193,ANL DESENVOLVIMENTO PL,M,Pleno,7734,TECNOLOGIA,Dev,10,8375,92%,11/05/2020,30,36,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 194,ANL DESENVOLVIMENTO PL,M,Pleno,11003,TECNOLOGIA,Dev,10,8375,131%,05/07/2021,35,22,23/05/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 195,ESPECIALISTA FINANCEIRO,M,Esp/Coord,10977,FINANCEIRO,Regular,11,12000,91%,10/01/2013,36,124,01/06/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 196,ANL BI PL,F,Pleno,9335,TECNOLOGIA,Alta Exp,10,6696,139%,19/04/2021,29,25,07/06/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 197,ANL DE SUPORTE N1 PL,M,Pleno,7707,TECNOLOGIA,Alta Exp,10,6696,115%,04/04/2016,35,86,12/06/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 198,ANL DESENVOLVIMENTO PL,M,Pleno,7431,TECNOLOGIA,Dev,10,8375,89%,09/11/2021,23,19,13/06/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 199,ANL FINANCEIRO SR,F,Senior,8124,FINANCEIRO,Regular,10,6696,121%,05/07/2022,28,11,18/06/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 200,ANL MARKETING PL,M,Pleno,5247,COMERCIAL,Regular,9,5643,93%,14/06/2022,35,12,22/06/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 201,ANL MARKETING JR,F,Junior,3667,COMERCIAL,Regular,8,4138,89%,08/06/2021,27,24,29/06/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 202,ANALISTA DESENVOLVIMENTO SR,M,Senior,13100,TECNOLOGIA,Dev,11,10450,125%,19/07/2022,39,11,02/07/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 203,ESPECIALISTA DE PRODUTO I,M,Esp/Coord,17114,COMERCIAL,Regular,11,12000,143%,10/04/2014,47,111,12/07/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 204,ANL DESENVOLVIMENTO PL,M,Pleno,9831,TECNOLOGIA,Dev,10,8375,117%,23/11/2020,26,31,12/07/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 205,ANL INFRAESTRUTURA PL,M,Pleno,6154,TECNOLOGIA,Alta Exp,10,6696,92%,15/10/2019,39,45,24/07/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 206,ANALISTA DESENVOLVIMENTO SR,M,Senior,11873,TECNOLOGIA,Dev,11,10450,114%,02/03/2020,32,40,01/08/2023,involuntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 207,ANALISTA MARKETING JR,F,Junior,3827,PRODUTOS,Regular,8,4138,92%,13/04/2021,25,27,06/08/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 208,CONTROLLER FINANCEIRO,M,Gerente,25000,FINANCEIRO,Regular,13,18890,132%,18/04/2022,33,15,06/08/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 209,ANALISTA DE PRODUTOS JR,F,Junior,3527,PRODUTOS,Alta Exp,9,5250,67%,16/08/2022,37,11,12/08/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 210,ANALISTA DESENVOLVIMENTO SR,M,Senior,13916,TECNOLOGIA,Dev,11,10450,133%,18/04/2022,28,16,24/08/2023,Voluntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 211,ASSISTENTE DE PRODUTOS,M,Assistente,3334,COMERCIAL,Regular,5,2200,152%,12/07/2021,28,25,08/09/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 212,ANALISTA DESENVOLVIMENTO JR,M,Junior,4297,TECNOLOGIA,DEV,9,5250,82%,14/06/2022,33,14,11/09/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 213,GERENTE DESENVOLVIMENTO,M,Gerente,21000,TECNOLOGIA,Dev,14,26287,80%,04/01/2022,33,20,17/09/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 214,ANALISTA DE PRODUTOS JR,F,Junior,4949,COMERCIAL,Alta Exp,9,5250,94%,10/05/2022,33,16,24/09/2023,Voluntario,,,,,,,,,,,,,,,,
+BEMOBI,Desligado 215,ESPECIALISTA DESENVOLVIMENTO,M,Esp/Coord,13000,TECNOLOGIA,Dev,12,14187,92%,14/02/2023,33,7,26/09/2023,involuntario,,,,,,,,,,,,,,,,
+MULTI,Desligado 216,ESPECIALISTA DESENVOLVIMENTO I,F,Esp/Coord,14592,TECNOLOGIA,Dev,12,14187,103%,04/01/2021,33,33,04/10/2023,Voluntario,,,,,,,,,,,,,,,,
+M4P,Desligado 217,COORDENADOR FINANCEIRO,F,Esp/Coord,12481,FINANCEIRO,Regular,11,12000,104%,11/09/2017,33,72,10/10/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 218,ANALISTA DESENVOLVIMENTO PL,M,Pleno,8994,TECNOLOGIA,Dev,10,8375,107%,12/07/2022,33,15,07/11/2023,involuntario,,,,,,,,,,,,,,,,
+M4P,Desligado 219,ANALISTA FINANCEIRO SR,F,Senior,8153,FINANCEIRO,Regular,10,6696,122%,08/08/2023,33,2,01/11/2023,involuntario,,,,,,,,,,,,,,,,
