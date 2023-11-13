@@ -1,4 +1,4 @@
-Empresa,Nome,Cargo,Sexo,N�vel,Sal�rio,Diretoria,Categoria,Grade,Mediana,PIR,Admiss�o,Idade,TdC
+Empresa,Nome,Cargo,Sexo,Nivel,Salario,Diretoria,Categoria,Grade,Mediana,PIR,Admissao,Idade,TdC
 BEMOBI,Ativo 1,ANALISTA DE SUPORTE N1 JR,F,Junior,5123,TECNOLOGIA,Regular,8,4138,124%,01/06/2021,27,29
 BEMOBI,Ativo 2,ANALISTA DESENVOLVIMENTO PL,M,Pleno,7789,TECNOLOGIA,Dev,10,8375,93%,20/09/2022,23,13
 BEMOBI,Ativo 3,GERENTE MARKETING,F,Gerente,20000,COMERCIAL,Regular,13,18890,106%,21/02/2013,35,128
